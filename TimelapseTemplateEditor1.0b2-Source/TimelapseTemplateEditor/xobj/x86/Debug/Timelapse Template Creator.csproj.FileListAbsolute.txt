@@ -1,0 +1,86 @@
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\Timelapse Coding Scheme Creator.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.lref
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.g.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Creator.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.lref
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.g.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Creator.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Template Creator 9\Timelapse Template Creator\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csproj.GenerateResource.Cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.lref
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.g.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Creator.Properties.Resources.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csproj.GenerateResource.Cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.lref
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.g.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Creator.Properties.Resources.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator9.3\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csproj.GenerateResource.Cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.cache
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator_MarkupCompile.lref
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.exe
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Creator.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.g.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Creator.Properties.Resources.resources
+C:\Users\Saul\Documents\@\Timelapse\ExperimentalPrototypesMatthew\Timelapse Template Creator-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Creator.csproj.GenerateResource.Cache

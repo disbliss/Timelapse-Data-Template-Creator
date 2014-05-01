@@ -1,0 +1,17 @@
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Editor.exe
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\bin\x86\Debug\Timelapse Template Editor.pdb
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\App.g.cs
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor_MarkupCompile.cache
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor_MarkupCompile.lref
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor.g.resources
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse_Template_Editor.Properties.Resources.resources
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor.csproj.GenerateResource.Cache
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor.exe
+C:\Users\Saul\Documents\@\Timelapse\TimelapseTemplateEditor\Timelapse Template Editor-1.0beta1\Timelapse Template Creator\obj\x86\Debug\Timelapse Template Editor.pdb

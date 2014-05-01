@@ -1,0 +1,14 @@
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\bin\Debug\Timelapse Coding Scheme Creator.exe
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\bin\Debug\Timelapse Coding Scheme Creator.pdb
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\MainWindow.baml
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\MainWindow.g.cs
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\App.g.cs
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator_MarkupCompile.cache
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator.g.resources
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse_Coding_Scheme_Creator.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator.exe
+c:\users\matthew\documents\visual studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\obj\Debug\Timelapse Coding Scheme Creator.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Timelapse Coding Scheme Creator\Timelapse Coding Scheme Creator\bin\Debug\System.Data.SQLite.pdb
